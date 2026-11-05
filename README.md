@@ -24,4 +24,6 @@ Most of my client work lives in private repositories; the public projects here a
 
 ## Find me
 
+[Portfolio](https://arr1497.github.io) — projects, CV and contact details.
+
 [LinkedIn](https://www.linkedin.com/in/rehman-waseem) — the quickest way to reach me.
